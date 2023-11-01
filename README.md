@@ -31,6 +31,8 @@ Ce projet Arduino utilise un capteur DHT11 pour surveiller l'humidité et la tem
 
 ![IMG_6296](https://github.com/Matthieumoto/Humidite-Temperature/assets/136125610/51e2b3cc-af41-45aa-83b4-00492b68ffab)
 
+![image](https://github.com/Matthieumoto/Humidite-Temperature/assets/136125610/a4c5bf43-d484-4d45-97a7-2125e573968e)
+
 ## Notes
 - Le capteur DHT11 doit être correctement alimenté et les connexions doivent être vérifiées.
 - Assurez-vous d'inclure les bibliothèques DHT et LiquidCrystal dans votre environnement Arduino IDE.
