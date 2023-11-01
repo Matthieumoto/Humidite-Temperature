@@ -41,4 +41,4 @@ Ce projet a été réalisé par **Matthieu_moto**.
 N'hésitez pas à contribuer et à améliorer ce projet.
 
 ## Licence
-Ce projet est sous licence [licence]. Pour plus d'informations, consultez le fichier [LICENSE.md].
+Ce projet est sous licence [LICENSE](LICENSE).
